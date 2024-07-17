@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 120px;
+    width: 100%;
+    /* border: 1px solid black; */
+}
+header img{
+    width: 12%;
+    margin-top: 20px;
+}
+
+header .a{
+    height: 25%;
+    width: 80%;
+    margin-left: 8%;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+}
+header .i{
+    margin-left: 140vh;
+    position: absolute;
+    margin-top: 20px;
+    color: black;
+}
+header i{
+    font-size: 20px;
+}
+
+header .a a{
+    font-family: 'Jost', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 4%;
+    color: black;
+    font-size: 14px;
+}
+.d1{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+}
+.d1 h3 span{
+    font-family: 'Jost', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 50px;
+}
+
+section h3{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+form{
+    height: 350px;
+    width: 480px;
+    /* border: 1px solid; */
+    margin-left: 550px;
+    margin-top: 30px;
+}
+form label{
+    font-family: 'Jost', sans-serif;
+}
+form input{
+    height: 44px;
+    width: 460px;
+    border: 1px solid rgb(190, 189, 189);
+}
+form button{
+    height: 45px;
+    width: 460px;
+    margin-top: 35px;
+    background-color: black;
+    color: white;
+    font-family: 'Jost', sans-serif;
+    font-size: 16px;
+    border: 1px solid;
+}
+.btn{
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    height: 10px;
+    margin-top: -6px;
+}
+form h2{
+    font-family: 'Jost', sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+footer{
+    height: 600px;
+    width: 100%;
+    margin-top: 10px;
+    background-color:#e6e6e6;
+}
+.box1{
+    height: 300px;
+    width: 250px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 30px;
+    /* border: 1px solid; */
+}
+.box1 h4{
+    font-family: 'Jost', sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+    
+}
+.box1 a{
+    font-family: 'Jost', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.box2{
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 300px;
+    /* border: 1px solid; */
+}
+.box2 a{
+    font-family: 'Jost', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.box3{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 600px;
+    /* border: 1px solid; */
+}
+.box3 h4{
+    font-family: 'Jost', sans-serif;
+    font-weight: 100;
+    letter-spacing: 5px;
+    
+}
+.box3 p{
+    font-family: 'Jost', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+.box3 input{
+    height: 38px;
+    margin-top: 20px;
+    font-size: 16px;
+    padding: 20px;
+    width: 320px;
+    border: 1px solid rgb(190, 189, 189);
+}
+.box3 button{
+    height: 40px;
+    width: 320px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    /* font-family: 'Jost', sans-serif; */
+    font-size: 16px;
+    border: 1px solid;
+}
+.box3 i{
+    font-size: 30px;
+}
+.box3 img{
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 100px;
+}
